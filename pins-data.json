@@ -1,7 +1,7 @@
 [
   {
     "author": {
-      "avatar": "img/avatars/user01.png"
+      "avatar": "img/avatars/user01.jpg"
     },
     "offer": {
       "title": "Уютное гнездышко для молодоженов",
@@ -38,7 +38,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user02.png"
+      "avatar": "img/avatars/user02.jpg"
     },
     "offer": {
       "title": "Маленькая квартирка рядом с парком",
@@ -66,7 +66,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user03.png"
+      "avatar": "img/avatars/user03.jpg"
     },
     "offer": {
       "title": "Небольшая лавочка в парке",
@@ -88,7 +88,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user04.png"
+      "avatar": "img/avatars/user04.jpg"
     },
     "offer": {
       "title": "Императорский дворец в центре Токио",
@@ -130,7 +130,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user05.png"
+      "avatar": "img/avatars/user05.jpg"
     },
     "offer": {
       "title": "Милейший чердачок",
@@ -161,7 +161,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/default.png"
+      "avatar": "img/avatars/default.jpg"
     },
     "offer": {
       "title": "Наркоманский притон",
@@ -192,7 +192,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user06.png"
+      "avatar": "img/avatars/user06.jpg"
     },
     "offer": {
       "title": "Чёткая хата",
@@ -225,7 +225,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user07.png"
+      "avatar": "img/avatars/user07.jpg"
     },
     "offer": {
       "title": "Стандартная квартира в центре",
@@ -257,7 +257,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user08.png"
+      "avatar": "img/avatars/user08.jpg"
     },
     "offer": {
       "title": "Тихая квартирка недалеко от метро",
@@ -288,7 +288,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/default.png"
+      "avatar": "img/avatars/default.jpg"
     },
     "offer": {
       "title": "Милое гнездышко для фанатов Анимэ",
